@@ -1,8 +1,8 @@
 import type { Props } from "astro";
 import IconMail from "@/assets/icons/IconMail.svg";
 import IconGitHub from "@/assets/icons/IconGitHub.svg";
+import IconHash from "@/assets/icons/IconHash.svg";
 import IconBrandX from "@/assets/icons/IconBrandX.svg";
-import IconLinkedin from "@/assets/icons/IconLinkedin.svg";
 import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
 import IconFacebook from "@/assets/icons/IconFacebook.svg";
 import IconTelegram from "@/assets/icons/IconTelegram.svg";
@@ -19,25 +19,31 @@ interface Social {
 export const SOCIALS: Social[] = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/oluijks/blog.luba.dev",
     linkTitle: `${SITE.title} on Github`,
     icon: IconGitHub,
   },
   {
-    name: "X",
-    href: "https://x.com/username",
-    linkTitle: `${SITE.title} on X`,
-    icon: IconBrandX,
+    name: "Facebook",
+    href: "https://www.facebook.com/profile.php?id=100082175559972",
+    linkTitle: `${SITE.title} on Facebook`,
+    icon: IconFacebook,
   },
   {
-    name: "LinkedIn",
-    href: "https://www.linkedin.com/in/username/",
-    linkTitle: `${SITE.title} on LinkedIn`,
-    icon: IconLinkedin,
+    name: "Reddit",
+    href: "https://www.reddit.com/user/oluijks",
+    linkTitle: `${SITE.title} on Reddit`,
+    icon: IconHash,
+  },
+  {
+    name: "TikTok",
+    href: "https://www.tiktok.com/@oluijks",
+    linkTitle: `${SITE.title} on TikTok`,
+    icon: IconHash,
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "mailto:olafluijks@proton.me",
     linkTitle: `Send an email to ${SITE.title}`,
     icon: IconMail,
   },
