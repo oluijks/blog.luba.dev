@@ -4,14 +4,19 @@
   "version": "5.2.0",
   "packageManager": "pnpm@10.11.1",
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro check && astro build && pagefind --site dist && cp -r dist/pagefind public/",
-    "preview": "astro preview",
-    "sync": "astro sync",
     "astro": "astro",
-    "format:check": "prettier --check .",
+    "dev": "astro dev",
+    "sync": "astro sync",
+    "preview": "astro preview",
+    "astro:check": "astro check",
+    "astro:build": "astro build",
+    "astro:pagefind": "pagefind --site dist",
+    "astro:cp": "cp -r dist/pagefind public/",
+    "build": "pnpm astro:check && pnpm astro:build && pnpm astro:pagefind && pnpm astro:cp",
+    "lint": "eslint .",
     "format": "prettier --write .",
-    "lint": "eslint ."
+    "format:check": "prettier --check .",
+    "generate:post": "pnpx newmd blog "
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.12",
