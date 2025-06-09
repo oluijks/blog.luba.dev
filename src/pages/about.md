@@ -1,36 +1,45 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Me"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
 <div>
-  <img src="/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/olaf-luba.jpeg" class="p-8 sm:w-1/2 mx-auto rounded-full" alt="me and my beautiful wife luba">
 </div>
 
-## Tech Stack
+Hello! I'm Olaf Luijks, a software engineer with a passion for technology, music, and lifelong learning.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+## 🎵 Early Life & Musical Journey
 
-## Features
+I was born in 1973 in Rotterdam, the Netherlands, and spent my formative years immersed in its culture. During my military service, I had the unique opportunity to play in a military orchestra in Germany, Poland and Denmark, an experience that blended structure with creativity and deepened my love for music.
 
-Here are certain features of this site.
+## 💻 How I Got Into Programming
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+My journey into tech began with a Sinclair ZX Spectrum, a gift from my father. That small machine sparked a fascination with computers that still drives me today. I've been passionate about coding ever since, always eager to learn new languages and explore different paradigms.
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+These days, I especially enjoy working with JavaScript, Go, and Rust, each offering its own strengths and challenges. I'm also a big-time Linux user, ever since the early days of Slackware. Currently, I'm running Arch Linux, appreciating the control and minimalism it offers.
+
+## 🧑‍💻 Work Experience
+
+I've worked in a variety of environments, from call centers to airlines, and from corporate banks to boutique software companies. A few highlights:
+
+- Call Centers: I started by working with Aspect systems, writing COM objects and automating workflows.
+- KPN & ABN AMRO: At KPN, I contributed to the Epiphany project and spent a year working onsite at ABN AMRO.
+- Air Transat: I helped build and improve their online booking engine.
+- Software Company in The Hague: I spent several rewarding years helping clients solve real-world problems with clean code and pragmatic design.
+
+Right now, I'm studying to become a Security Officer / Ethical Hacker, combining my background in software development with my growing intereMaassluisst in ethical hacking, cybersecurity and governance.
+
+## 🦕 Interests Outside Tech
+
+When I'm not coding or studying, you'll probably find me deep in a book or documentary about dinosaurs or paleo science. The deep history of life on Earth fascinates me, there's something humbling and awe-inspiring about it.
+
+I'm also a lifelong lover of literature and poetry. I especially admire the great French poets, Flaubert, Rimbaud, Verlaine, Gautier, and Baudelaire, whose language and imagery have long inspired me. Every now and then, I write a poem myself. In fact, I'm currently working on a poetry bundle of my own called `Ludus coitus`.
+
+## 🏡 Personal Life
+
+I live in Monster, a peaceful coastal town, together with my wonderful beautiful wife luba. Our home is always lively when her children come to visit, and our loyal Bull Terrier Bogdan keeps us company and safe (and on our toes).
+
+## 📬 Get in Touch
+
+I'm always open to conversations, collaborations, or just sharing ideas about code, science, or anything in between.

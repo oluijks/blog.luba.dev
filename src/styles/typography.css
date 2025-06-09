@@ -11,6 +11,7 @@
   tbody td:first-child,
   tfoot td:first-child {
     padding-inline-start: 0.5714286em !important;
+    padding: 0.5rem;
   }
   .prose h2#table-of-contents {
     @apply mb-2;
