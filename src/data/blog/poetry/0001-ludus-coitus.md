@@ -2,7 +2,7 @@
 title: Ludus coitus
 author: Olaf Luijks
 pubDatetime: 2025-06-01T06:57:30.706Z
-slug: ludus-coitus
+slug: poetry/ludus-coitus
 featured: true
 draft: false
 tags:

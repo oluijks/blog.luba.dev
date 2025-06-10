@@ -2,7 +2,7 @@
 title: Exposed Beneath the Paris Moon
 author: Olaf Luijks
 pubDatetime: 2025-06-02T10:13:47.217Z
-slug: exposed-beneath-the-paris-moon
+slug: short-stories/exposed-beneath-the-paris-moon
 featured: false
 draft: false
 tags:

@@ -2,7 +2,7 @@
 author: Olaf Luijks
 pubDatetime: 2025-06-04T09:18:56.533Z
 title: Our first trip together to Paris
-slug: our-first-trip-together-to-paris
+slug: travel/our-first-trip-together-to-paris
 featured: true
 draft: false
 tags:
@@ -12,13 +12,13 @@ tags:
 description: Our first trip together to Paris
 ---
 
-Every year in March, around my birthday, we usually go to Knokke in Belgium. However, due to unforeseen circumstances, that wasn't possible this year. So I suggested a long weekend in Paris instead. I've been there many times, and Luba had only been once but she was excited to go again.
+Every year in March, around my birthday, we usually go to Knokke in Belgium. However, due to unforeseen circumstances, that wasn't possible this year. So I suggested a long weekend in Paris instead. I've been there many times, and luba had only been once but she was excited to go again.
 
 Coincidentally, I received an email newsletter offering a hotel in Montreuil, just a few kilometers from central Paris. We booked a nice room for May 16–19 (via Booking.com) and also bought train tickets.
 
 ### Day 1
 
-We dropped off Bogdan at his lodging around 8:30 in the morning, parked the car at Luba's work, and took the tram to The Hague Central Station. We grabbed some coffee and then took the train to Rotterdam Central Station. There, we had a layover of about 40 minutes before boarding the train to Brussels.
+We dropped off Bogdan at his lodging around 8:30 in the morning, parked the car at luba's work, and took the tram to The Hague Central Station. We grabbed some coffee and then took the train to Rotterdam Central Station. There, we had a layover of about 40 minutes before boarding the train to Brussels.
 
 In Brussels, we waited for about 20 minutes and then boarded our final train. From that moment on, it truly felt like our little holiday had begun.
 
@@ -26,12 +26,12 @@ In Brussels, we waited for about 20 minutes and then boarded our final train. Fr
 
 We arrived at Gare du Nord around 14:10, bought metro tickets to Montreuil, and half an hour later we were in our hotel room. Montreuil is a charming area with few tourists, which we really appreciated. It's only a few kilometers from the city center, and the metro system is easy to navigate. I recommend downloading the Bonjour RATP app, it's great for buying tickets and checking metro, bus, and tram schedules.
 
-Later, we took a walk around the neighborhood, and Luba found a nice pair of secondhand Italian heels, they looked fantastic. We stumbled upon a local food market and, right next to it, discovered a cozy French restaurant. I made a reservation for that evening.
+Later, we took a walk around the neighborhood, and luba found a nice pair of secondhand Italian heels, they looked fantastic. We stumbled upon a local food market and, right next to it, discovered a cozy French restaurant. I made a reservation for that evening.
 
 ![First drink](@/assets/images/paris-2025/first-drink.jpg)
 ![Italian high heels](@/assets/images/paris-2025/high-heels.jpeg)
 
-Dinner at the restaurant was excellent. We started with foie gras, followed by lamb for Luba and an amazing steak for me. I also tried my first French Coca-Cola! Around 22:00, we headed back to the hotel, tired but happy, and quickly fell asleep.
+Dinner at the restaurant was excellent. We started with foie gras, followed by lamb for luba and an amazing steak for me. I also tried my first French Coca-Cola! Around 22:00, we headed back to the hotel, tired but happy, and quickly fell asleep.
 
 ![French Coca-Cola](@/assets/images/paris-2025/french-cola.jpeg)
 ![Foie Gras](@/assets/images/paris-2025/foi-gras.jpeg)
@@ -55,7 +55,7 @@ Back in Montreuil that evening, we had dinner at a budget-friendly restaurant. I
 
 ### Day 3
 
-Sunday, a perfect day to visit Cimetière du Père-Lachaise. Luba really enjoyed it. We even came across the grave of a Russian family, and of course, we visited the graves of Chopin and Jim Morrison.
+Sunday, a perfect day to visit Cimetière du Père-Lachaise. luba really enjoyed it. We even came across the grave of a Russian family, and of course, we visited the graves of Chopin and Jim Morrison.
 
 ![Grave of a Russian family](@/assets/images/paris-2025/russian-grave.jpeg)
 

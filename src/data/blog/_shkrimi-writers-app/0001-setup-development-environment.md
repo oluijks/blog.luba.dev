@@ -1,7 +1,7 @@
 ---
 author: Olaf Luijks
 pubDatetime: 2025-06-03T06:17:57.785Z
-title: Tauri App - Part 1 - Setup development environment
+title: Shkrimi Tauri App - Setup development environment [Part 1]
 slug: tauri-app-setup-development-environment
 featured: false
 draft: false
@@ -23,7 +23,7 @@ description: Building a simple writers app using Tauri and Svelte
 
 In this series we will be building a simple writers app using Tauri, not as complicated as Scrivener but with enough features to call it a serious desktop application. let's call the app `Shkrimi` - Albanian word for writing.
 
-As my wife Luba and I plan our adventure to Albania this August, I thought, why not channel that excitement into building something meaningful? Thus, 'Shkrimi' was born.
+As my wife luba and I plan our adventure to Albania this August, I thought, why not channel that excitement into building something meaningful? Thus, 'Shkrimi' was born.
 
 If you don't know what Tauri is, it is a framework to build cross-platform desktop apps using Rust for the backend and Javascript/Typescript for the frontend. This little tutorial is for beginners so if this is your first adventure with Tauri just follow along and have fun.
 

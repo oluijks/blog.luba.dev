@@ -2,7 +2,7 @@
 title: Whispers of Albania
 author: Olaf Luijks
 pubDatetime: 2025-04-01T10:02:02.355Z
-slug: whispers-of-albania
+slug: short-stories/whispers-of-albania
 featured: false
 draft: false
 tags:
