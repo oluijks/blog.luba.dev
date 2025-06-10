@@ -13,7 +13,7 @@ tags:
   - desktop-app
   - tutorial
   - programming
-description: Building a simple writers app using Tauri and Svelte
+description: "Kicking off a hands-on tutorial series where we build a simple writer's app using Tauri and Svelte. In this first part: setting up the tools and environment."
 ---
 
 **Ever dreamed of building your own desktop app without diving deep into complex frameworks? Let's embark on a journey to create 'Shkrimi', a writer's app inspired by our upcoming trip to Albania!**
