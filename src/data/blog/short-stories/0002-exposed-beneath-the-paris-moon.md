@@ -178,9 +178,7 @@ Desires once stirred are not so easily forgotten. She carries Paris now within h
 
 <h4 style="text-align: center; padding-bottom: 26px;">
 I've tried to write this short story in the same style as Emile Zola.<br /><br />
-  <a 
-    href="https://amzn.to/4juBDpY">Click here to get one of his best novels: Nana
-  </a>
+  <a href="https://amzn.to/4juBDpY">Click here to get one of his best novels: Nana</a>
 </h4>
 
 ![Nana - by Emile Zola](@/assets/images/emile-zola-nana.jpg)
