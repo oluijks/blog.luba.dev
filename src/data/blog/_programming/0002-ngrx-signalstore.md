@@ -14,7 +14,7 @@ tags:
 description: Why I think NgRx SignalStore is also useful in small projects
 ---
 
-2024-02-06T15:56:04.255Zd NgRx on Reddit and as always the topic of boilerplate comes up. Now, in itself, that's ok with me but people tend to focus on that too much in my opinion. NgRx has its place and I always say: make sure your project needs it before you start using it and planning on pushing it into production.
+NgRx on Reddit and as always the topic of boilerplate comes up. Now, in itself, that's ok with me but people tend to focus on that too much in my opinion. NgRx has its place and I always say: make sure your project needs it before you start using it and planning on pushing it into production.
 
 Having said that I also think NgRx has its place in smaller projects, so let's explore that a little, the new and shiny Signal Store in particular.
 
@@ -72,11 +72,7 @@ Check out the docs and have fun with it! 🔗 [https://ngrx.io/guide/signals](ht
 
 <h4 style="text-align: center; padding-bottom: 26px;">
 I learned a lot reading this book and it is a nice to have reference<br /><br />
-  <a 
-    href="https://amzn.to/3T2txtL" target="_blank">Click here to get your copy of the book Reactive State for Angular with NgRx: Learn to build Reactive Angular Applications using NgRx
-  </a>
+  <a href="https://amzn.to/3T2txtL" target="_blank">Click here to get your copy of the book Reactive State for Angular</a>
 </h4>
 
 ![image](@/assets/images/ngrx.jpg)
-
----

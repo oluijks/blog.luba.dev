@@ -17,7 +17,7 @@ description: He was in the data - And the data was fetched with sqlx
 
 ## Installing sqlx and friends
 
-Yeah the title says it: we will be using sqlx to get data out of our postgres database. What is it you might ask? Well it is a library to help you running queries on a database. One of the nice features of this library is that it checks your queries in compile-time so errors are caught early and won't make it into production. If you like to know more take a look at this link: [https://crates.io/crates/sqlx](https://crates.io/crates/sqlx)
+Yeah the title says it: we will be using sqlx to get data out of our postgres database. What is it you might ask? Well it is a library to help you running queries on a database. One of the nice features of this library is that it checks your queries in compile-time so errors are caught early and won't make it into production. If you like to know more take a look at this link: 🔗 [https://crates.io/crates/sqlx](https://crates.io/crates/sqlx)
 
 Time to install sqlx and the features we need:
 
@@ -123,11 +123,7 @@ In the next chapter we will make an endpoint and query some faqs my friends.
 
 <h4 style="text-align: center; padding-bottom: 26px;">
 I learned a lot reading this book and it is a nice to have reference<br /><br />
-  <a 
-    href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials: Rust Essentials for Backend Engineers
-  </a>
+  <a href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials</a>
 </h4>
 
 ![image](@/assets/images/rust-book.jpg)
-
----

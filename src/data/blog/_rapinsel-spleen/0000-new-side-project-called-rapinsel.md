@@ -27,27 +27,23 @@ I'll make an seperate blog section where you can read all about the progress and
 
 So far there are 6 posts about it:
 
-[6) And the data was fetched with sqlx](/posts/sprs-part6-and-the-data-was-fetched-with-sqlx/)
-
-[5) For the law was given by Make](/posts/sprs-part5-and-the-word-was-given-by-automation/)
-
-[4) To bear witness of the Test](/posts/sprs-part4-and-the-test-shineth-in-darkness/)
-
-[3) Let there be dependencies](/posts/sprs-part3-let-there-be-dependencies/)
+[1) In the beginning](/posts/sprs-part1-in-the-beginning/)
 
 [2) There was Rust](/posts/sprs-part2-there-was-rust/)
 
-[1) In the beginning](/posts/sprs-part1-in-the-beginning/)
+[3) Let there be dependencies](/posts/sprs-part3-let-there-be-dependencies/)
+
+[4) To bear witness of the Test](/posts/sprs-part4-and-the-test-shineth-in-darkness/)
+
+[5) For the law was given by Make](/posts/sprs-part5-and-the-word-was-given-by-automation/)
+
+[6) And the data was fetched with sqlx](/posts/sprs-part6-and-the-data-was-fetched-with-sqlx/)
 
 ---
 
 <h4 style="text-align: center; padding-bottom: 26px;">
 I learned a lot reading this book and it is a nice to have reference<br /><br />
-  <a 
-    href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials: Rust Essentials for Backend Engineers
-  </a>
+  <a href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials</a>
 </h4>
 
 ![image](@/assets/images/rust-book.jpg)
-
----

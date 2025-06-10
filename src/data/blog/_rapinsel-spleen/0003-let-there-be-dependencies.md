@@ -31,7 +31,15 @@ This will install the latest version and also update the `Cargo.toml` file:
 
 ```toml
 ...
-[dependencies]
+[dependencies]---
+
+<h4 style="text-align: center; padding-bottom: 26px;">
+I learned a lot reading this book and it is a nice to have reference<br /><br />
+  <a href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials</a>
+</h4>
+
+![image](@/assets/images/rust-book.jpg)
+
 actix-web = "4.8.0"
 ```
 
@@ -56,7 +64,15 @@ In order for calling an endpoint we need a http server and actix-web let's you m
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
     HttpServer::new(|| App::new()
-        .service(health_check_handler))
+        .service(health_check_han---
+
+<h4 style="text-align: center; padding-bottom: 26px;">
+I learned a lot reading this book and it is a nice to have reference<br /><br />
+  <a href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials</a>
+</h4>
+
+![image](@/assets/images/rust-book.jpg)
+dler))
         .bind(("127.0.0.1", 5174))?
         .run()
         .await?;
@@ -174,11 +190,7 @@ It doesn't really matter which code editor you use, I switch a lot between VSCod
 
 <h4 style="text-align: center; padding-bottom: 26px;">
 I learned a lot reading this book and it is a nice to have reference<br /><br />
-  <a 
-    href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials: Rust Essentials for Backend Engineers
-  </a>
+  <a href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials</a>
 </h4>
 
 ![image](@/assets/images/rust-book.jpg)
-
----

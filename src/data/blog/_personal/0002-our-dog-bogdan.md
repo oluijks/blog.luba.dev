@@ -7,8 +7,9 @@ slug: our-dog-bogdan
 featured: false
 draft: false
 tags:
-  - personal
   - dogs
+  - personal
+  - bull-terrier
 description: The story of our dog Bogdan
 ---
 

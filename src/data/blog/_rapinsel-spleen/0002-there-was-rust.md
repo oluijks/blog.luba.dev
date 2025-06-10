@@ -89,3 +89,12 @@ Hello, world!
 ```
 
 In the next chapter we will look at all the dependencies we need and install them into our project. When that is all done we can finally write some nifty Rust code and have the compiler yell at us like a true mother in law 😉
+
+---
+
+<h4 style="text-align: center; padding-bottom: 26px;">
+I learned a lot reading this book and it is a nice to have reference<br /><br />
+  <a href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials</a>
+</h4>
+
+![image](@/assets/images/rust-book.jpg)

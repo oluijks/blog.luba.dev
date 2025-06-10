@@ -7,8 +7,11 @@ slug: yet-another-sveltekit-starter
 featured: false
 draft: false
 tags:
-  - programming
+  - svelte
   - personal
+  - template
+  - sveltekit
+  - programming
   - side-projects
 description: Yet Another SvelteKit Starter v1.0.0 published!
 ---
@@ -27,8 +30,8 @@ When starting a new SvelteKit project I tend to configure it in a special way an
 - 📱 Fully responsive design
 - 🚀 Production-ready deployment configs
 
-You can visit the site here: https://yass.luba.dev/
+You can visit the site here: 🔗 https://yass.luba.dev/
 
-Link to the Github Repository: https://github.com/oluijks/yass
+Link to the Github Repository: 🔗 https://github.com/oluijks/yass
 
 ![Yass on Mobile Screenshot](@/assets/images/yass-mobile.png)

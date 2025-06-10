@@ -80,10 +80,19 @@ POSTGRES_PASSWORD="secret"
 The `docker-compose.yml` I basically copied from the Docker website and looks like this:
 
 ```yml
-version: "3.9"
-services:
-  db:
-    image: ${DOCKER_IMAGE}
+version: "3.9"---
+
+<h4 style="text-align: center; padding-bottom: 26px;">
+I learned a lot reading this book and it is a nice to have reference<br /><br />
+  <a
+    href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials: Rust Essentials for Backend Engineers
+  </a>
+</h4>
+
+![image](@/assets/images/rust-book.jpg)
+
+---
+
     container_name: ${CONTAINER_NAME}
     shm_size: 128mb
     restart: always
@@ -128,7 +137,7 @@ ddown:
 	docker-compose down2024-07-09T09:08:51.324Z
 ```
 
-If you are using VSCode you could install these extensions: [Database Client JDBC](https://marketplace.visualstudio.com/items?itemName=cweijan.dbclient-jdbc) to have a nice gui to connect and interact with your postgres database and the [Docker Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) but if you have your own tools that's fine too, use whatever you like.
+If you are using VSCode you could install these extensions: 🔗 [Database Client JDBC](https://marketplace.visualstudio.com/items?itemName=cweijan.dbclient-jdbc) to have a nice gui to connect and interact with your postgres database and the 🔗 [Docker Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) but if you have your own tools that's fine too, use whatever you like.
 
 Play and poke around in your database and docker instance and if you mess up, no worries you can always delete the whole crap and start over.
 
@@ -138,11 +147,7 @@ In the next chapter we...
 
 <h4 style="text-align: center; padding-bottom: 26px;">
 I learned a lot reading this book and it is a nice to have reference<br /><br />
-  <a
-    href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials: Rust Essentials for Backend Engineers
-  </a>
+  <a href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials</a>
 </h4>
 
 ![image](@/assets/images/rust-book.jpg)
-
----

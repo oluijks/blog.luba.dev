@@ -7,6 +7,7 @@ featured: false
 draft: false
 tags:
   - personal
+  - opensource
   - programming
 description: My first contribution to an open-source project
 ---
@@ -23,11 +24,7 @@ On that note: have a look at that project, the maintainer build a awesome fork o
 
 <h4 style="text-align: center; padding-bottom: 26px;">
 I learned a lot reading this book and it is a nice to have reference<br /><br />
-  <a 
-    href="https://amzn.to/43nDU1n" target="_blank">Click here to get your copy of the book Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology.
-  </a>
+  <a href="https://amzn.to/43nDU1n" target="_blank">Click here to get your copy of the book Forge Your Future with Open Source</a>
 </h4>
 
 ![image](@/assets/images/opensource-book.jpg)
-
----

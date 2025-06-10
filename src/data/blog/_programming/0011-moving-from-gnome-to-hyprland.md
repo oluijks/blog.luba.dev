@@ -6,8 +6,11 @@ slug: moving-from-gnome-to-hyprland
 featured: false
 draft: false
 tags:
+  - rofi
+  - gnome
+  - wayland
+  - hyprland
   - programming
-  - personal
 description: Thinking of switching from GNOME to Hyprland? Discover why I moved to this dynamic Wayland tiling compositor, how it compares to GNOME, and how to get started.
 ---
 
@@ -23,7 +26,7 @@ That's when I found Hyprland, a dynamic tiling Wayland compositor. It immediatel
 
 ## First Impressions and Configuration
 
-The initial experience was surprisingly smooth. Despite being under active development, Hyprland worked well out of the box. The documentation is solid, and I found plenty of community dotfiles to draw inspiration from, including [my own config here](https://github.com/mylinuxforwork/dotfiles).
+The initial experience was surprisingly smooth. Despite being under active development, Hyprland worked well out of the box. The documentation is solid, and I found plenty of community dotfiles to draw inspiration from, including 🔗 [my own config here](https://github.com/mylinuxforwork/dotfiles).
 
 Here's what I set up early on:
 

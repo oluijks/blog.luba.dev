@@ -31,11 +31,7 @@ Tweaking it and making it more my own will come later, I want to focus on gettin
 
 <h4 style="text-align: center; padding-bottom: 26px;">
 I learned a lot reading this book and it is a nice to have reference<br /><br />
-  <a 
-    href="https://amzn.to/43TC4Wa" target="_blank">Click here to get your copy of the book Mastering Astro: A Complete Guide: Build Smarter Sites with Astro! 
-  </a>
+  <a href="https://amzn.to/43TC4Wa" target="_blank">Click here to get your copy of the book Mastering Astro</a>
 </h4>
 
 ![image](@/assets/images/astro-framework.jpg)
-
----

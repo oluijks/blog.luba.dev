@@ -68,10 +68,16 @@ test tests::test_health_check_ha2024-07-09T08:30:52.187Zed; 0 ignored; 0 measure
 
 A failing test looks like this:
 
-```zsh
-   Compiling backend v0.1.0 (/Code/backend)
-    Finished `test` profile [unoptimized + debuginfo] target(s) in 1.39s
-     Running unittests src/main.rs (target/debug/deps/backend-c9cee311d72ed333)
+```zsh<h4 style="text-align: center; padding-bottom: 26px;">
+I learned a lot reading this book and it is a nice to have reference<br /><br />
+  <a
+    href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials: Rust Essentials for Backend Engineers
+  </a>
+</h4>
+
+![image](@/assets/images/rust-book.jpg)
+
+---
 
 running 1 test
 test tests::test_health_check_handler ... FAILED <!-- the wrath of Rust!
@@ -196,11 +202,7 @@ In the next chapters we will be setting up a docker for a postgres database and 
 
 <h4 style="text-align: center; padding-bottom: 26px;">
 I learned a lot reading this book and it is a nice to have reference<br /><br />
-  <a 
-    href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials: Rust Essentials for Backend Engineers
-  </a>
+  <a href="https://amzn.to/4kiPb97" target="_blank">Click here to get your copy of the book Rust Essentials</a>
 </h4>
 
 ![image](@/assets/images/rust-book.jpg)
-
----

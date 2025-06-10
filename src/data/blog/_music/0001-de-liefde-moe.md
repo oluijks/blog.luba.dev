@@ -14,8 +14,6 @@ description: When a beautiful poem and a extraordinary voice collide
 
 As a young kid I loved the poet Remco Campert and was the biggest fan of the music by Bram Vermeulen. 1994 was the year these two great artists merged and I got quiet&hellip;
 
-## Table of contents
-
 ## The poem
 
 De liefde kent de tijd te goed<br/>

@@ -6,9 +6,11 @@ slug: travel/our-first-trip-together-to-paris
 featured: true
 draft: false
 tags:
-  - personal
+  - luba
+  - paris
   - travel
   - citytrip
+  - personal
 description: Our first trip together to Paris
 ---
 

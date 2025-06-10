@@ -6,6 +6,7 @@ slug: zed-editor-on-fedora
 featured: false
 draft: false
 tags:
+  - editor
   - programming
 description: Zed Editor on Fedora
 ---
@@ -46,7 +47,7 @@ Now you can start Zed by typing `zed` in your terminal.
 
 Additionally you can create a shortcut `zed.desktop` in your applications menu by creating a `.desktop` file in `/usr/share/applications/` or in `~/.local/share/applications` with the following content:
 
-```ini
+```desktop
 [Desktop Entry]
 Version=1.0
 Type=Application

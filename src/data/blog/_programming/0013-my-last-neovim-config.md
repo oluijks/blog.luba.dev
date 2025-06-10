@@ -6,6 +6,12 @@ slug: my-last-neovim-configuration
 featured: true
 draft: false
 tags:
+  - lua
+  - vim
+  - editor
+  - neovim
+  - lazyvim
+  - dotfiles
   - programming
 description: Ever felt overwhelmed by endless Neovim configurations?
 ---

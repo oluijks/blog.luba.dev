@@ -68,11 +68,7 @@ That's it! You now have a workspace/monorepo setup with `bun` workspaces. Enjoy 
 
 <h4 style="text-align: center; padding-bottom: 26px;">
 I learned a lot reading this book and it is a nice to have reference<br /><br />
-  <a 
-    href="https://amzn.to/4kgr2jD" target="_blank">Click here to get your copy of the book Bun.js in Action: Real-World Solutions for Building Modern Backends
-  </a>
+  <a href="https://amzn.to/4kgr2jD" target="_blank">Click here to get your copy of the book Bun.js in Action</a>
 </h4>
 
 ![image](@/assets/images/bun-in-action.jpg)
-
----
