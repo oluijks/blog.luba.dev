@@ -40,10 +40,9 @@ Dinner at the restaurant was excellent. We started with foie gras, followed by l
 
 ### Day 2
 
-modDatetime: 2025-06-01T19:56:29.062Z
-, it was incredibly crowded, so I suggested we visit the Musée d'Orsay first and explore the city center afterwards.
+We had breakfast around 08:30, and it was surprisingly good. After eating, we took the metro and headed toward the Louvre. Once we got there, it was incredibly crowded, so I suggested we visit the Musée d'Orsay first and explore the city center afterwards.
 
-We spent a good two hours in the Musée d'Orsay—definitely worth the ticket price. For me, the highlight was the painting featuring Paul Verlaine and Arthur Rimbaud. After the museum, we made our way to the city center and stopped for coffee—which, unsurprisingly, was ridiculously expensive.
+We spent a good two hours in the Musée d'Orsay, definitely worth the ticket price. For me, the highlight was the painting featuring Paul Verlaine and Arthur Rimbaud. After the museum, we made our way to the city center and stopped for coffee, which, unsurprisingly, was ridiculously expensive.
 
 ![Painting Paul Verlaine and Arthur Rimbaud](@/assets/images/paris-2025/painting-verlaine-rimbaud.jpeg)
 
