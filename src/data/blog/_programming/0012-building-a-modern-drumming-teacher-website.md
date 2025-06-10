@@ -2,14 +2,14 @@
 author: Olaf Luijks
 pubDatetime: 2025-05-10T22:01:18.662Z
 modDatetime: 2025-05-10T22:01:18.662Z
-title: Building a Modern Drumming Teacher Website with TanStack Start, Tailwind CSS, and Convex
+title: A Fast, Modern Website with TanStack Start and Convex
 slug: building-a-modern-drumming-teacher-website
 featured: true
 draft: false
 tags:
   - programming
   - personal
-description: Learn how I built a fast, SEO-ready website for a drumming teacher using TanStack Start, Tailwind CSS, and Convex, ideal for modern, maintainable web projects
+description: Behind the scenes of a modern, SEO-friendly website build for a drumming teacher, powered by TanStack Start, Tailwind CSS, and Convex.
 ---
 
 Recently, I built a new website for my drumming teacher, Ron van Elswijk. The goal was to create a fast, modern, and maintainable platform that would serve as both a personal portfolio and an entry point for students. It's currently in a test phase, but the core tech is solid and ready to scale.
@@ -43,7 +43,7 @@ I leaned on Tailwind's grid utilities to create structured, clean layouts, and k
 
 ## 🧠 Convex Backend
 
-For the backend, I integrated Convex, a reactive serverless database. While the current site is mostly static, Convex gives us a future-proof backend. Potential additions include:
+For the backend, I integrated CBuilding a simple writers app using Tauri and Svelteonvex, a reactive serverless database. While the current site is mostly static, Convex gives us a future-proof backend. Potential additions include:
 
 - A student login portal
 - Booking or lesson scheduling
