@@ -108,7 +108,7 @@ There are many ways to scaffold a Tauri app but let say you want to use pnpm and
 pnpm create tauri-app
 ```
 
-```sh
+````sh
 ✔ Project name · shkrimi
 ✔ Identifier · com.shkrimi.app
 ✔ Choose which language to use for your frontend · TypeScript / JavaScript
@@ -118,19 +118,14 @@ pnpm create tauri-app
 Did you know?
 Template created! To get started run:yass-mo
 https://amzn.to/4kiPb97
-  pnpm tauri dev
-
-For Android development, run:
-  pnpm tauri android dev
-```
-
+  pnpm tauri dev’
 ### Setting a node version
 
 Next, create a `.nvmrc` and set the node version. You could use a version number but I like to use the release/codename. `Jod` is the lts version (v22). If you would like to use a different version have a look at [Node.js Releases](https://nodejs.org/en/about/previous-releases).
 
 ```sh
 echo node/jod >> .nvmrc
-```
+````
 
 We then can set the node version that will be used for this project like:
 
