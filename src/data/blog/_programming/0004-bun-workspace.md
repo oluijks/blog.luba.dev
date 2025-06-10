@@ -60,7 +60,7 @@ You can do the same for the build or deploy step of course.
 
 ## Installing packages
 
-If you install a package for one of you apps, Bun is smart enough to hoist the package to the root of the workspace. This way you can share packages between your apps. I encourage you to have a look at the bun documentation to see what else you can do with it: [https://bun.sh/docs/install/workspaces](https://bun.sh/docs/install/workspaces)
+If you install a package for one of you apps, Bun is smart enough to hoist the package to the root of the workspace. This way you can share packages between your apps. I encourage you to have a look at the bun documentation to see what else you can do with it: 🔗 [https://bun.sh/docs/install/workspaces](https://bun.sh/docs/install/workspaces)
 
 That's it! You now have a workspace/monorepo setup with `bun` workspaces. Enjoy coding!
 

@@ -49,7 +49,7 @@ We will be integrating a wysiwyg editor and if we're lucky even write some nifty
 
 We need some system dependencies, rust of course, nvm, git and a text editor.
 
-See [Install Tauri Prerequisites](httpstest://tauri.app/start/prerequisites/)
+See 🔗 [Install Tauri Prerequisites](httpstest://tauri.app/start/prerequisites/)
 
 Install system deps, rust, git, nvm and a text editor:Lets
 
@@ -107,7 +107,7 @@ Once this is done we are pretty much ready to go and create our Tauri project.
 
 There are many ways to scaffold a Tauri app but let say you want to use pnpm and Svelte for the frontend then we would issue the following command:
 
-> Take a look at [Tauri 2.0](https://v2.tauri.app/) if you are using powershell, bash, deno, bun, npm or yarn...
+> Take a look at 🔗 [Tauri 2.0](https://v2.tauri.app/) if you are using powershell, bash, deno, bun, npm or yarn...
 
 ```sh
 pnpm create tauri-app
@@ -126,7 +126,7 @@ https://amzn.to/4kiPb97
   pnpm tauri dev’
 ### Setting a node version
 
-Next, create a `.nvmrc` and set the node version. You could use a version number but I like to use the release/codename. `Jod` is the lts version (v22). If you would like to use a different version have a look at [Node.js Releases](https://nodejs.org/en/about/previous-releases).
+Next, create a `.nvmrc` and set the node version. You could use a version number but I like to use the release/codename. `Jod` is the lts version (v22). If you would like to use a different version have a look at 🔗 [Node.js Releases](https://nodejs.org/en/about/previous-releases).
 
 ```sh
 echo node/jod >> .nvmrc
@@ -166,47 +166,47 @@ Here's a collection of helpful tools, docs, and guides to support your journey b
 
 ### 🧰 General Dev Environment
 
-- [Node.js Downloads](https://nodejs.org/en/download/)
-- [NVM (Node Version Manager)](https://github.com/nvm-sh/nvm)
-- [Rust Installation Guide](https://www.rust-lang.org/tools/install)
-- [Git Basics](https://git-scm.com/doc)
-- [VSCode Download](https://code.visualstudio.com/)
-- [Neovim](https://neovim.io/)
+- 🔗 [Node.js Downloads](https://nodejs.org/en/download/)
+- 🔗 [NVM (Node Version Manager)](https://github.com/nvm-sh/nvm)
+- 🔗 [Rust Installation Guide](https://www.rust-lang.org/tools/install)
+- 🔗 [Git Basics](https://git-scm.com/doc)
+- 🔗 [VSCode Download](https://code.visualstudio.com/)
+- 🔗 [Neovim](https://neovim.io/)
 
 ### 🦀 Rust
 
-- [The Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
-- [Rustlings (interactive exercises)](https://github.com/rust-lang/rustlings)
-- [Crates.io – Rust Package Registry](https://crates.io/)
-- [Awesome Rust (Curated List)](https://github.com/rust-unofficial/awesome-rust)
+- 🔗 [The Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
+- 🔗 [Rustlings (interactive exercises)](https://github.com/rust-lang/rustlings)
+- 🔗 [Crates.io – Rust Package Registry](https://crates.io/)
+- 🔗 [Awesome Rust (Curated List)](https://github.com/rust-unofficial/awesome-rust)
 
 ### 🧪 Tauri
 
-- [Tauri Official Site](https://tauri.app/)
-- [Tauri Prerequisites](https://tauri.app/v1/guides/getting-started/prerequisites/)
-- [Tauri GitHub Repo](https://github.com/tauri-apps/tauri)
-- [Tauri Discord Community](https://discord.gg/tauri)
+- 🔗 [Tauri Official Site](https://tauri.app/)
+- 🔗 [Tauri Prerequisites](https://tauri.app/v1/guides/getting-started/prerequisites/)
+- 🔗 [Tauri GitHub Repo](https://github.com/tauri-apps/tauri)
+- 🔗 [Tauri Discord Community](https://discord.gg/tauri)
 
 ### 🎨 Frontend (Svelte + Tailwind)
 
-- [Svelte Official Site](https://svelte.dev/)
-- [Svelte Tutorial (interactive)](https://svelte.dev/tutorial)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
-- [Tailwind CSS IntelliSense Extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- 🔗 [Svelte Official Site](https://svelte.dev/)
+- 🔗 [Svelte Tutorial (interactive)](https://svelte.dev/tutorial)
+- 🔗 [Tailwind CSS](https://tailwindcss.com/)
+- 🔗 [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
+- 🔗 [Tailwind CSS IntelliSense Extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
 ### 🧠 Optional Learning Boosters
 
-- [FreeCodeCamp: How to Build a Tauri App](https://www.freecodecamp.org/news/how-to-build-a-desktop-app-with-tauri/)
-- [Frontend Mentor](https://www.frontendmentor.io/) – improve UI skills
-- [Cross-Platform Desktop Apps (Book)](https://amzn.to/43s2EFU)
+- 🔗 [FreeCodeCamp: How to Build a Tauri App](https://www.freecodecamp.org/news/how-to-build-a-desktop-app-with-tauri/)
+- 🔗 [Frontend Mentor](https://www.frontendmentor.io/) – improve UI skills
+- 🔗 [Cross-Platform Desktop Apps (Book)](https://amzn.to/43s2EFU)
 
 ### 🛠 Developer Tools
 
-- [pnpm](https://pnpm.io/)
-- [Deno](https://deno.land/)
-- [Bun](https://bun.sh/)
-- [nvm-windows (for Windows users)](https://github.com/coreybutler/nvm-windows)
+- 🔗 [pnpm](https://pnpm.io/)
+- 🔗 [Deno](https://deno.land/)
+- 🔗 [Bun](https://bun.sh/)
+- 🔗 [nvm-windows (for Windows users)](https://github.com/coreybutler/nvm-windows)
 
 > 💡 **Tip:** Bookmark this list! These links will help you debug faster, build better, and learn smarter.
 
@@ -214,9 +214,7 @@ Here's a collection of helpful tools, docs, and guides to support your journey b
 
 <h4 style="text-align: center; padding-bottom: 26px;">
 I learned a lot reading this book and it is a nice to have reference<br /><br />
-  <a 
-    href="https://amzn.to/43s2EFU" target="_blank">Click here to get your copy of the book Cross-Platform Desktop Apps - Electron, Tauri, and Beyond: A Practical Guide to Cross-Platform Development
-  </a>
+  <a href="https://amzn.to/43s2EFU" target="_blank">Click here to get your copy of the book Cross-Platform Desktop Apps</a>
 </h4>
 
 ![image](@/assets/images/cross-platform-apps.jpg)

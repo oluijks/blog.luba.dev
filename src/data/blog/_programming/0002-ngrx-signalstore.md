@@ -66,7 +66,7 @@ This looks great doesn't it and it is pretty much self-explanatory.
 
 Just like the component store has its place it's worth looking into signal store, even if your project isn't a multi-million dollar project. I don't know the developers behind NgRx but I think they made a high-quality library.
 
-Check out the docs and have fun with it! [https://ngrx.io/guide/signals](https://ngrx.io/guide/signals)
+Check out the docs and have fun with it! 🔗 [https://ngrx.io/guide/signals](https://ngrx.io/guide/signals)
 
 ---
 

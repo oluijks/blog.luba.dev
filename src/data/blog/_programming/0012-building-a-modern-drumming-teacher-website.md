@@ -16,7 +16,7 @@ Recently, I built a new website for my drumming teacher, Ron van Elswijk. The go
 
 In this post, I'll walk through the tech stack I chose, TanStack Start, Tailwind CSS, and Convex, and share some of the architectural decisions behind the project.
 
-> Note: I used the new [create-tsrouter-app](https://github.com/TanStack/create-tsrouter-app) to generate this project so check it out.
+> Note: I used the new 🔗 [create-tsrouter-app](https://github.com/TanStack/create-tsrouter-app) to generate this project so check it out.
 
 ---
 

@@ -51,7 +51,7 @@ Overall, **Hyprland offers more flexibility, performance, and fun**. It brings j
 If you're ready to move from GNOME to Hyprland, keep in mind:
 
 - Expect a learning curve, especially if you're new to tiling window managers.
-- Read the [official wiki](https://wiki.hyprland.org/), it's well-maintained and incredibly helpful.
+- Read the 🔗 [official wiki](https://wiki.hyprland.org/), it's well-maintained and incredibly helpful.
 - Don't be afraid to tinker. Hyprland rewards customization.
 
 ## Final Thoughts

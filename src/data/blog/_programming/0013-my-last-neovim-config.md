@@ -16,7 +16,7 @@ description: Ever felt overwhelmed by endless Neovim configurations?
 
 I must have configured Neovim a thousand times. From scratch-built setups to community distributions like AstroVim, NvChad, and Kickstart.nvim, I've tried almost everything. Each one brought its own strengths, but none of them stuck for long. I'd always end up reconfiguring things, chasing plugin updates, or just getting bored and starting over.
 
-That changed after I watched this excellent video by devaslife: [Effective Neovim Setup for Web Development Towards 2024](https://youtu.be/fFHlfbKVi30?si=YKCTCHy3SvcyagOf). It introduced me again to LazyVim, a modern, opinionated Neovim starter that actually felt sustainable. It is an older video but I had no issues following along.
+That changed after I watched this excellent video by devaslife: 🔗 [Effective Neovim Setup for Web Development Towards 2024](https://youtu.be/fFHlfbKVi30?si=YKCTCHy3SvcyagOf). It introduced me again to LazyVim, a modern, opinionated Neovim starter that actually felt sustainable. It is an older video but I had no issues following along.
 
 Out of the box, LazyVim comes with well-chosen defaults and useful plugins already configured. I simply enabled the modules I regularly use, and I was essentially done. Adding or adjusting plugins is refreshingly simple, just drop a Lua file into the `plugins` directory and extend the opts. No boilerplate, no headaches.
 

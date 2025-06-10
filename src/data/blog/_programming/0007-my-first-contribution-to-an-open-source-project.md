@@ -17,7 +17,7 @@ Not a big deal and my pull-request was a tiny update on some docs in the shadcn-
 
 On that note: have a look at that project, the maintainer build a awesome fork of shadcn-ui for svelte.
 
-[https://github.com/huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
+🔗 [https://github.com/huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
 
 ---
 

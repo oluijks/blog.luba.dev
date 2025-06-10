@@ -17,7 +17,7 @@ description: My new side-project called Rapinsel
 
 I like building stuff and never finish it: yeah I know I'm that kind of dude... I imagine that is the same for a lot of developers out there but here I am again: announcing my new idea.
 
-About 6 months ago I made a starter project called "Golang Angular Starter", you can find it here: [https://github.com/oluijks/golang-starter](https://github.com/oluijks/golang-starter) and I had a ton of fun making it. Go is a cool language that you can pretty quickly learn and make nice things with it.
+About 6 months ago I made a starter project called "Golang Angular Starter", you can find it here: 🔗 [https://github.com/oluijks/golang-starter](https://github.com/oluijks/golang-starter) and I had a ton of fun making it. Go is a cool language that you can pretty quickly learn and make nice things with it.
 
 My new idea is about the same like the Golang starter but with a different tech stack: Rust for the backend (REST Api: Rapinsel) and SvelteKit for the frontend (Spleen). Perhaps you already guessed it: it's another writing app. But more on that later.
 
