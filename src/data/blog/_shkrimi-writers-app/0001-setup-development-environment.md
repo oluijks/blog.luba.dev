@@ -1,12 +1,17 @@
 ---
 author: Olaf Luijks
 pubDatetime: 2025-06-03T06:17:57.785Z
-title: Shkrimi Tauri App - Setup development environment [Part 1]
+title: "Shkrimi Tauri – Part 2: - Setup development environment"
 slug: tauri-app-setup-development-environment
 featured: false
 draft: false
 tags:
   - tauri
+  - svelte
+  - rust
+  - cross-platform
+  - desktop-app
+  - tutorial
   - programming
 description: Building a simple writers app using Tauri and Svelte
 ---

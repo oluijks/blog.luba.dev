@@ -1,18 +1,18 @@
 ---
 author: Olaf Luijks
-title: "Shkrimi Tauri App - Beyond Electron: Tauri and the Reimagining of Desktop JavaScript [Part 2]"
+title: "Shkrimi Tauri – Part 2: - Beyond Electron: Tauri and the Reimagining of Desktop JavaScript"
 slug: beyond-electron-tauri-desktop-js
 pubDatetime: 2025-06-10T08:22:20.031Z
 draft: false
 featured: false
 tags:
   - tauri
-  - electron
+  - svelte
   - rust
   - cross-platform
-  - desktop-apps
-  - javascript
-  - webview
+  - desktop-app
+  - tutorial
+  - programming
 description: Explore the evolution of JavaScript desktop apps—from the rise of Electron and Atom to the lean, secure future made possible by Tauri and Rust. A developer-focused journey into modern cross-platform development.
 ---
 
