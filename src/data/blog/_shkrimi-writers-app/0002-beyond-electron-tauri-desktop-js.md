@@ -45,7 +45,7 @@ In the next part, we'll explore the generated project and start making a few sma
 <h4 style="text-align: center; padding-bottom: 26px;">
 I learned a lot reading this book and it's a great reference for modern app development.<br /><br />
 <a 
-  href="https://amzn.to/43s2EFU" target="_blank">Click here to get your copy of the book <em>Cross-Platform Desktop Apps – Electron, Tauri, and Beyond: A Practical Guide to Cross-Platform Development</em>
+  href="https://amzn.to/43s2EFU" target="_blank">Click here to get your copy of the book Cross-Platform Desktop Apps
 </a>
 </h4>
 
