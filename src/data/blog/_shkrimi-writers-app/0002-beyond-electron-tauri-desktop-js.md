@@ -38,7 +38,7 @@ And the story doesn't end at the desktop. Since version 2, **Tauri** has expande
 
 ## Part 3
 
-In the next part ...
+In the next part, we'll explore the generated project and start making a few small tweaks to understand how everything fits together.
 
 ---
 
