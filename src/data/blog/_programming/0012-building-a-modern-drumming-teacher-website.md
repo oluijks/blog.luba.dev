@@ -66,6 +66,8 @@ You can visit the test version here:
 
 We're still in the testing phase, so feedback is welcome!
 
+If you would like to access the code on GitHub let me know.
+
 ## 💬 What's Next?
 
 Next steps might include:
