@@ -1,7 +1,7 @@
 ---
 author: Olaf Luijks
 pubDatetime: 2025-06-03T06:17:57.785Z
-title: "Shkrimi Tauri – Part 2: - Setup development environment"
+title: "Shkrimi Tauri – Part 1: Setup development environment"
 slug: tauri-app-setup-development-environment
 featured: false
 draft: false

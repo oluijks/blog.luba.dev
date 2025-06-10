@@ -1,6 +1,6 @@
 ---
 author: Olaf Luijks
-title: "Shkrimi Tauri – Part 2: - Beyond Electron: Tauri and the Reimagining of Desktop JavaScript"
+title: "Shkrimi Tauri – Part 2: Beyond Electron, Tauri and the Reimagining of Desktop JavaScript"
 slug: beyond-electron-tauri-desktop-js
 pubDatetime: 2025-06-10T08:22:20.031Z
 draft: false
