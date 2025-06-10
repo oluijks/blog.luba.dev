@@ -6,6 +6,7 @@ slug: tauri-app-setup-development-environment
 featured: false
 draft: false
 tags:
+  - tauri
   - programming
 description: Building a simple writers app using Tauri and Svelte
 ---
@@ -157,11 +158,11 @@ pnpm tauri dev
 
 ### Part 2
 
-In the next part we will have a good look at the project code and try to understand how Tauri works as well about some history about why Tauri exists, what the benefits are and some example apps that are made with tauri that you can try for yourself.
+In the next part, we'll explore the story behind Tauri, why it was created, what problems it set out to solve, and how it compares to frameworks like Electron. We'll also highlight some standout apps built with Tauri that you can try yourself.
 
 ## 📚 Resources
 
-Here’s a collection of helpful tools, docs, and guides to support your journey building apps with Tauri, Rust, and Svelte.
+Here's a collection of helpful tools, docs, and guides to support your journey building apps with Tauri, Rust, and Svelte.
 
 ### 🧰 General Dev Environment
 
