@@ -64,7 +64,7 @@ She did not yet know for what. Only that the world felt larger, more golden, mor
 
 She was alive.
 
-And the world, it seemed, was waiting.modDatetime: 2025-06-01T19:21:22.397Z
+And the world, it seemed, was waiting.
 
 By the fourth day, the quiet of Saint-Léon had begun to itch under her skin.
 
@@ -126,7 +126,6 @@ He exploded into her with a helpless, blinding force, his hands clutching her hi
 For a long time, they lay tangled together, slick with sweat, hearts slowly finding their rhythm again.
 
 It was then, in the lazy, open honesty of the dark, that she spoke.
-modDatetime: 2025-06-01T19:21:22.397Z
 
 "I wonder where he's from. Greece, maybe? Or Macedonia? Even Albania?" She laughed softly, a note of something (amusement, or curiosity, or something harder to name) in her voice.
 
@@ -157,7 +156,7 @@ At some point, she excused herself with a kiss on his temple and a soft laugh, d
 
 Inside, the café was cool and dim. The hallway to the restrooms was narrow, lined with old posters and crooked frames. As she turned the corner, she nearly collided with someone, a solid, masculine presence that smelled faintly of citrus and warm linen.
 
-It was him.modDatetime: 2025-06-01T19:21:22.397Z
+It was him.
 
 For a moment they stood there, close enough that she could see the fine lines around his mouth, the flecks of gray in his beard. His eyes, dark and steady, lingered on her face, then dropped, almost imperceptibly, to the hollow of her throat, the soft line of her collarbone.
 
@@ -229,7 +228,7 @@ The faint, unshakable certainty that they were stepping across a threshold from 
 
 The terrace where they found a table was shaded by broad canvas awnings, the heat softened to a lazy, golden warmth. Around them, the town’s flea market carried on: the murmur of bargaining voices, the occasional bark of laughter, the distant clatter of old ironware.
 
-He joined them with an easy smile, accepting the invitation as if it were the most natural thing in the world. Up close, the man seemed even more formidable, not by force of stature, but by the weight of his presence. His movements were unhurried, deliberate, his voice a rich baritone smoothed by the accents of distant shores.modDatetime: 2025-06-01T19:21:22.397Z
+He joined them with an easy smile, accepting the invitation as if it were the most natural thing in the world. Up close, the man seemed even more formidable, not by force of stature, but by the weight of his presence. His movements were unhurried, deliberate, his voice a rich baritone smoothed by the accents of distant shores.
 
 No last name. No explanation.
 
@@ -298,8 +297,7 @@ But it was not only the dress that caught him.
 
 It was her face.
 The makeup.
-modDatetime: 2025-06-01T19:21:22.397Z
-ade her seem almost untouchable, and yet more desirable than ever.
+Made her seem almost untouchable, and yet more desirable than ever.
 
 Her hair was pinned up in a loose, elegant style, exposing the long, graceful line of her neck, with a few rebellious strands escaping to frame her face, softening her beauty to something almost unbearably tender.
 
@@ -367,7 +365,7 @@ She hesitated (she almost never drank) but then laughed and accepted the glass, 
 
 "To adventures," she said.
 
-Their glasses clinked together, and she took a careful sip, wrinkling her nose at first, then laughing again, her cheeks already flushed from the sun.modDatetime: 2025-06-01T19:21:22.397Z
+Their glasses clinked together, and she took a careful sip, wrinkling her nose at first, then laughing again, her cheeks already flushed from the sun.
 
 Later, as the wind picked up slightly and the boat heeled more sharply, Arban suggested she try steering.
 
@@ -434,8 +432,9 @@ As they drove back toward Saint-Léon, she was quieter, leaning her head against
 
 Tomorrow, they knew, was their second-to-last day in this dreamlike place.
 
-And tomorrow night, there would be a party in the town square,modDatetime: 2025-06-01T19:21:22.397Z
-he lights.
+And tomorrow night, there would be a party in the town square, an old tradition, with food, music, dancing beneath the stars.
+
+She spoke of it with casual excitement, the music, the food, the lights.
 
 But when he glanced at her, he caught the way her fingers played idly with the edge of her beach bag, the way her smile was just a little too secret.
 
@@ -503,7 +502,6 @@ The town square was a garden of lights and sound.
 Strings of golden bulbs crisscrossed the open space, their reflections shimmering in glasses of wine and on the polished surfaces of brass instruments. Long tables groaned under the weight of roasted meats, cheeses, platters of glossy fruit, loaves of warm bread. The music was old and sweet, played on fiddles and accordions, laughter rising high into the velvet night.
 
 She was radiant.
-modDatetime: 2025-06-01T19:21:22.397Z
 
 She moved among the villagers with an ease that took his breath away, her laughter bright, her dress swirling around her legs, the gold on her skin catching every flicker of light.
 
@@ -587,8 +585,11 @@ She danced often, sometimes with him, her hands light in his, her laughter sweet
 Local men, respectful, admiring, took her hands, led her into the slow, turning rhythms of old romantic dances.
 They twirled her gently under the lights, her dress flaring out around her thighs, her anklet flashing at her ankle like a secret.
 
-He watched, heart full, heart breaking, as she surrendered tmodDatetime: 2025-06-01T19:21:22.397Z
+He watched, heart full, heart breaking, as she surrendered to the music and the night.
 
+And always, somehow, Arban was close.
+
+Not possessive. Not blatant. But there.
 Moving easily among the dancers, exchanging laughter and words, always finding his way back near her, brushing lightly against her arm, whispering something that made her blush and laugh.
 
 There was no single moment when it became clear that Arban had her in his grasp.

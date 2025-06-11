@@ -19,7 +19,7 @@ description: There was Rust - Installing Rust and project dependencies
 
 On Fedora (which I'm using) installing Rust can be done in two ways but the preferred one is to use `rustup`.
 
-```zsh
+```sh
 sudo dnf install rust cargo
 sudo dnf install rustup
 ```
@@ -28,7 +28,7 @@ sudo dnf install rustup
 
 Check to see if your installation is successful and looks something like this:
 
-```zsh
+```sh
 > cargo --version
 cargo 1.79.0 (ffa9cf99a 2024-06-03)
 > rustc --version
@@ -41,11 +41,11 @@ You are officially a Rust developer now!
 
 Ok, let's continue and create our backend project with the following command:
 
-````zsh2025-06-01T19:56:29.062Z
+````sh
 
 The project you just created should look like:
 
-```zsh
+```sh
 .
 ├── Cargo.toml
 └── src
@@ -54,7 +54,7 @@ The project you just created should look like:
 
 And the `Cargo.toml` has no dependencies yet:
 
-```zsh
+```sh
 [package]
 name = "backend"
 version = "0.1.0"
@@ -75,13 +75,13 @@ If you ever done something in C, C++ or Java this should look pretty familiar to
 
 If you made it this far: be proud of yourself, but wait! Let's compile and run this bad mofo and see if it actually works!
 
-```zsh
+```sh
 cargo run
 ```
 
 If you see `Hello, world!`: I salut you Rust Guru and don't forget to update your resume 😉
 
-```zsh
+```sh
    Compiling backend v0.1.0 (/Code/backend)
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.26s
      Running `target/debug/backend`

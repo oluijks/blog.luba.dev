@@ -153,7 +153,7 @@ Onze moeder is mijn toekomst
 Zal het land dwingen te bidden  
 Voor jou; Godin die mij het blonde goud gaf  
 De rest is van geen betekenis —  
-gestorven in vergeten geschiedenis modDatetime: 2025-06-01T19:21:22.397Z
+gestorven in vergeten geschiedenis
 
 ## Hej Bogdan
 

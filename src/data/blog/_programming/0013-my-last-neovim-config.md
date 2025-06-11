@@ -30,7 +30,7 @@ After years of fiddling, this setup feels like the one I won't immediately want 
 
 ## My Previous Configurations: A Brief Overview
 
-My vim journey started like many others: copying someone else's config, breaking it, and learning from the ashes. Over time, I transitioned to Neovim with Lua, modularized my config, and explored community tools like `packer.nvim` and `mason.nvim`. Each change brought improvements, but also complexit2025-06-01T08:44:42.338Zy.
+My vim journey started like many others: copying someone else's config, breaking it, and learning from the ashes. Over time, I transitioned to Neovim with Lua, modularized my config, and explored community tools like `packer.nvim` and `mason.nvim`. Each change brought improvements, but also complexit.
 
 I built things I was proud of scratchpad buffers, custom UI tweaks but maintaining all of it became a job in itself. As Neovim's ecosystem evolved rapidly, I found myself constantly chasing compatibility and reconfiguring old hacks. The joy was fading.
 
@@ -72,7 +72,7 @@ This is pretty much what I've added to my config:
 
 ## Final Thoughts: Why I'm Sticking with This Setup
 
-I've called this post "My Last Neovim2025-06-01T08:44:42.338Z Configuration" not because I'm done learning, but because I've found a solid foundation that I'm confident will last. LazyVim gives me the polish and structure I was missing without locking me in.
+I've called this post "My Last Neovim Configuration" not because I'm done learning, but because I've found a solid foundation that I'm confident will last. LazyVim gives me the polish and structure I was missing without locking me in.
 
 Of course, nothing is ever truly final in the world of dotfiles but this is the first time I've felt like I'm not building a config for its own sake, but using a config that supports my work.
 
