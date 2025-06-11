@@ -57,5 +57,8 @@ export default defineConfig({
     preserveScriptOrder: true,
   },
 
-  adapter: vercel(),
+  adapter: vercel({
+    // @see https://docs.astro.build/en/guides/integrations-guide/vercel/#imageservice
+    imageService: true,
+  }),
 });
