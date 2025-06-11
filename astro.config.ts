@@ -59,6 +59,6 @@ export default defineConfig({
 
   adapter: vercel({
     // @see https://docs.astro.build/en/guides/integrations-guide/vercel/#imageservice
-    imageService: true,
+    // imageService: true,
   }),
 });
