@@ -38,6 +38,7 @@ export function pagefindCopier(): AstroIntegration {
 
           try {
             await fs.access(pagefindSourceDir);
+          // eslint-disable-next-line @typescript-eslint/no-unused-vars
           } catch (error) {
             buildLogger.warn("No pagefind directory found in dist");
             return;

@@ -11,7 +11,7 @@ Hello! I'm Olaf Luijks, a software engineer with a passion for technology, music
 
 ## 🎵 Early Life & Musical Journey
 
-I was born in 1973 in Rotterdam, the Netherlands, and spent my formative years immersed in its culture. During my military service, I had the unique opportunity to play in a military orchestra in Germany, Poland and Denmark, an experience that blended structure with creativity and deepened my love for music.
+I was born in 1973 in Rotterdam, the Netherlands, and grew up in then a small town Maassluis. During my military service, I had the unique opportunity to play in a military orchestra in Germany, Poland and Denmark, an experience that blended structure with creativity and deepened my love for music.
 
 ## 💻 How I Got Into Programming
 
