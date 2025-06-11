@@ -13,7 +13,7 @@ tags:
   - desktop-app
   - tutorial
   - programming
-description: Explore the evolution of JavaScript desktop apps—from the rise of Electron and Atom to the lean, secure future made possible by Tauri and Rust. A developer-focused journey into modern cross-platform development.
+description: "Explore the evolution of JavaScript desktop apps, from the rise of Electron and Atom to the lean, secure future made possible by Tauri and Rust. A developer-focused journey into modern cross-platform development."
 ---
 
 ## JavaScript's Journey from Browser to Desktop

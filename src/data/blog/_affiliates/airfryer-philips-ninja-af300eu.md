@@ -24,7 +24,7 @@ We didn't choose the **Philips Essential XL Airfryer** for health fads or buzzwo
 We bought it because we were tired.  
 Of dishes. Of clunky ovens. Of evenings that began with cleanup and ended with exhaustion.
 
-Then we discovered the [**Philips Essential XL Connected Airfryer**](https://amzn.to/3FIPKdy), quiet, black, and reassuringly unassuming—like a lover who doesn't need to shout to be noticed.
+Then we discovered the [**Philips Essential XL Connected Airfryer**](https://amzn.to/3FIPKdy), quiet, black, and reassuringly unassuming, like a lover who doesn't need to shout to be noticed.
 
 ## 🌿 Why We Chose the Philips Essential XL Connected Airfryer
 
@@ -63,7 +63,7 @@ She playfully named it "The Third Wheel We Welcome," and truthfully, I didn't mi
 - **No lingering kitchen odors**
 - **No dinner-time tension**, only cheerful anticipation: "What shall we airfry tonight?"
 
-Cooking became intimate—not in a crude way, but warmly, like saying, "We're in this together."  
+Cooking became intimate, not in a crude way, but warmly, like saying, "We're in this together."  
 The airfryer created space for laughter, gentle touches, and genuine connection.
 
 ## 🔍 Key Features to Look For When Buying an Airfryer
@@ -83,7 +83,7 @@ These aspects proved more vital than we first imagined.
 **Dinner**: Salmon and asparagus, pork chops with honey-glazed carrots.  
 **Midnight snack**: Crispy fries again, or leftover pizza made freshly irresistible.
 
-Each meal became a shared moment—nibbling, laughing, reconnecting.
+Each meal became a shared moment, nibbling, laughing, reconnecting.
 
 ## 😲 Surprising Benefits of the Philips NutriU App
 
@@ -100,13 +100,13 @@ Whether you crave simpler evenings, delicious meals, or cozy connection, this is
 
 ## ⚖️ Alternatives We Considered (and Why Philips Won)
 
-We briefly looked at cheaper models—some under €80—but found them flimsy, loud, or inadequately sized.  
+We briefly looked at cheaper models, some under €80, but found them flimsy, loud, or inadequately sized.  
 High-end dual-zone models were tempting but unnecessary for two.
 
 Philips Essential XL found the **Goldilocks zone**: quality craftsmanship, quiet elegance, optimal capacity, and smart, intuitive technology.
 
-You simply can't go wrong with this choice—unless you burn your first fries (but trust us, you won't).
+You simply can't go wrong with this choice, unless you burn your first fries (but trust us, you won't).
 
 ## 🪞 Final Thoughts: Small Appliance, Big Impact
 
-Sometimes life’s richest moments come from simple changes—like the gentle hum of a Philips Airfryer reminding us that good food and good company don’t have to be complicated. It’s more than a kitchen gadget; it’s an invitation to slow down, savor, and reconnect.
+Sometimes life’s richest moments come from simple changes, like the gentle hum of a Philips Airfryer reminding us that good food and good company don’t have to be complicated. It’s more than a kitchen gadget; it’s an invitation to slow down, savor, and reconnect.

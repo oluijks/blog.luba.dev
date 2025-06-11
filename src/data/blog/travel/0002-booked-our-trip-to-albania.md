@@ -124,4 +124,4 @@ Want to dive deeper into the culture, history, and beauty of northern Albania? H
 
 ---
 
-💡 _Tip: Use Shkodër as your base to discover the north—spend a day cycling to Lake Shkodër, another wandering Rozafa Castle, and book a side trip to Theth if you’re into mountain magic._
+💡 _Tip: Use Shkodër as your base to discover the north, spend a day cycling to Lake Shkodër, another wandering Rozafa Castle, and book a side trip to Theth if you’re into mountain magic._
