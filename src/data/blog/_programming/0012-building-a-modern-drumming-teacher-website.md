@@ -45,7 +45,7 @@ I leaned on Tailwind's grid utilities to create structured, clean layouts, and k
 
 ## 🧠 Convex Backend
 
-For the backend, I integrated CBuilding a simple writers app using Tauri and Svelteonvex, a reactive serverless database. While the current site is mostly static, Convex gives us a future-proof backend. Potential additions include:
+For the backend, I integrated Convex, a reactive serverless database. While the current site is mostly static, Convex gives us a future-proof backend. Potential additions include:
 
 - A student login portal
 - Booking or lesson scheduling
