@@ -129,23 +129,26 @@ use api::health::health_check_handler;
 Compile and run your program again and run the test again and confirm that it is still working as expected. This is a small refactoring but it will benefit us when the project grows.
 
 To be complete your code should look like this now:
-2024-07-09T08:30:52.187Z
+
+`main.rs`
+
+```rust
+mod api;
+
 use actix_web::{App, HttpServer};
 use api::health::health_check_handler;
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
-HttpServer::new(|| App::new()
-.service(health_check_handler))
-.bind(("127.0.0.1", 5174))?
-.run()
-.await?;
+    HttpServer::new(|| App::new()
+        .service(health_check_handler))
+        .bind(("127.0.0.1", 5174))?
+        .run()
+        .await?;
 
     Ok(())
-
 }
-
-````
+```
 
 `src/api/health.rs`
 
@@ -186,7 +189,7 @@ mod tests {
         assert_eq!(body, serde_json::to_string(&expected_json).unwrap());
     }
 }
-````
+```
 
 `/src/api/mod.rs`
 

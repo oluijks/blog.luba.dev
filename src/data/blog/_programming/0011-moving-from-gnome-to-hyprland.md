@@ -31,7 +31,7 @@ The initial experience was surprisingly smooth. Despite being under active devel
 Here's what I set up early on:
 
 - Rofi for launching applications
-- Waybar for the status barmodDatetime: 2025-05-10T21:52:35.055Z
+- Waybar for the status bar
 
 - Foot terminal
 - Tmux for session management
