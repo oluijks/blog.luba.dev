@@ -6,7 +6,7 @@ import remarkCollapse from "remark-collapse";
 import { SITE } from "./src/config";
 
 import vercel from "@astrojs/vercel";
-import { pagefindCopier } from "./pagefind-copier";
+// import { pagefindCopier } from "./pagefind-copier";
 
 // https://astro.build/config
 export default defineConfig({
@@ -17,7 +17,7 @@ export default defineConfig({
       filter: page => SITE.showArchives || !page.endsWith("/archives"),
     }),
     // @see https://github.com/withastro/starlight/issues/2824
-    pagefindCopier(),
+    // pagefindCopier(),
   ],
 
   markdown: {
