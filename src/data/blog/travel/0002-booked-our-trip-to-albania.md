@@ -26,6 +26,16 @@ Fast-forward almost a year, and we've finally booked our stay: a full week at Fl
 
 ---
 
+Hier wat handige reisproducten te koop op bol.com:
+
+- <a href="https://partner.bol.com/click/click?p=2&t=url&s=1455032&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fp%2Fglobetrek-wereldstekker-reisstekker-fast-charging-2-usb-c-2-usb-a-universele-wereldstekker-voor-170-landen-amerika-engeland-australie-zuid-amerika-azie-afrika-europa-wereldstekkers-zwart%2F9300000185815669%2F&name=GlobeTrek%C2%AE%20Wereldstekker%20-%20Reisstekker%20-%20Fast%20...">Universele Wereldstekker voor 170+ landen (2 USB-C & 2 USB-A)</a>
+
+- <a href="https://partner.bol.com/click/click?p=2&t=url&s=1455032&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Fsuitsuit-koffer-reiskoffer-caretta-koffer%2F9300000178081704%2F&name=SUITSUIT%20Handbagage%20koffer%2053x35x20%20-%20Handbaga...">Handbagage trolley, lichtgewicht, cijferslot (in vele kleuren)</a>
+
+- <a href="https://partner.bol.com/click/click?p=2&t=url&s=1455032&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2F-%2F9300000209303563%2F&name=Nektasje%20-%20Anti%20Skim%20RFID%20Signaal%20Blokkering%20-...">Nektasje voor op reis en vakantie (Anti Skim RFID Signaal Blokkering)</a>
+
+---
+
 ### Why We Chose Florian's Place
 
 What made us book this place, besides Florian being super welcoming over video, was the vibe. It's more than a bed and breakfast. It's a little oasis on the edge of Shkodër, surrounded by vineyards and gardens, run by Florian, his parents, and his sister.
