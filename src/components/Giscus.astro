@@ -4,36 +4,59 @@ const {
   repoId,
   category,
   categoryId,
-  lang,
-  theme,
-  mapping,
+  lang = "en",
+  // keep this as a fallback; we'll override based on site theme at runtime
+  theme = "dark_dimmed",
+  mapping = "title",
   term,
 } = Astro.props;
 ---
-
 
 <section id="giscus_thread" aria-label="Comments"></section>
 <script type="application/json" id="giscus-props" set:html={JSON.stringify({repo,repoId,category,categoryId,lang,theme,mapping,term})}></script>
 
 <script is:inline>
-  function mountGiscus() {
+  function isDark() {
+    const html = document.documentElement;
+    return html.classList.contains('dark') || html.dataset.theme === 'dark';
+  }
+  function themeFromSite() {
+    return isDark() ? 'dark_dimmed' : 'light';
+  }
+
+  // add near your other functions
+  function switchGiscusTheme(next) {
+    const iframe = document.querySelector('iframe.giscus-frame');
+    if (iframe && iframe.contentWindow) {
+      // live switch: no flicker
+      iframe.contentWindow.postMessage(
+        { giscus: { setConfig: { theme: next } } },
+        'https://giscus.app'
+      );
+    } else {
+      // fallback: remount with desired theme
+      mountGiscus(next);
+    }
+  }
+
+  // expose as a global so your toggle can call it
+  window.__setGiscusTheme = (next) => switchGiscusTheme(next);
+
+
+  function mountGiscus(theme) {
     const host = document.getElementById('giscus_thread');
     if (!host) return;
 
-    // Clear any previous instance (important on client-side nav)
+    // read props
+    const props = JSON.parse(document.getElementById('giscus-props')?.textContent || "{}");
+
+    // wipe + inject
     host.innerHTML = "";
-
-    // Get props from the JSON script tag
-    const propsScript = document.getElementById('giscus-props');
-    if (!propsScript) return;
-    const props = JSON.parse(propsScript.textContent);
-
     const s = document.createElement('script');
     s.src = 'https://giscus.app/client.js';
     s.async = true;
-    s.setAttribute('crossorigin', 'anonymous');
+    s.crossOrigin = 'anonymous';
 
-    // Required Giscus data attributes (plain strings)
     s.dataset.repo = props.repo;
     s.dataset.repoId = props.repoId;
     s.dataset.category = props.category;
@@ -44,13 +67,44 @@ const {
     s.dataset.reactionsEnabled = "1";
     s.dataset.emitMetadata = "0";
     s.dataset.inputPosition = "bottom";
-    s.dataset.theme = props.theme;
-    s.dataset.lang = props.lang;
+    s.dataset.lang = props.lang || 'en';
+    s.dataset.theme = theme;
 
     host.appendChild(s);
   }
 
-  // Initial load + after Astro swaps DOM on client-side navigation
-  document.addEventListener('astro:page-load', mountGiscus);
-  document.addEventListener('astro:after-swap', mountGiscus);
+  // Try to live-switch; if not ready, or fails, remount.
+  function switchTheme(next) {
+    const iframe = document.querySelector('iframe.giscus-frame');
+    if (iframe && iframe.contentWindow) {
+      try {
+        iframe.contentWindow.postMessage(
+          { giscus: { setConfig: { theme: next } } },
+          'https://giscus.app'
+        );
+        return; // success path — no flicker
+      } catch (_) {}
+    }
+    // fallback
+    mountGiscus(next);
+  }
+
+  function init() {
+    mountGiscus(themeFromSite());
+  }
+
+  // Expose a global hook you can call from your own toggle code
+  window.__setGiscusTheme = (next) => switchTheme(next);
+
+  // Listen for your site’s custom event (you wire this from the toggle)
+  window.addEventListener('site-theme-change', (e) => {
+    const next = e.detail?.theme === 'dark' ? 'dark_dimmed' : 'light';
+    switchTheme(next);
+  });
+
+  // Also handle client-side nav
+  document.addEventListener('astro:page-load', init);
+  document.addEventListener('astro:after-swap', init);
 </script>
+
+

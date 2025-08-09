@@ -23,6 +23,12 @@ function setPreference() {
   reflectPreference();
 }
 
+// NEW: helper → map site theme to Giscus theme and call the hook
+function updateGiscusTheme() {
+  const next = themeValue === "dark" ? "dark_dimmed" : "light";
+  window.__setGiscusTheme?.(next);
+}
+
 function reflectPreference() {
   document.firstElementChild.setAttribute("data-theme", themeValue);
 
@@ -44,6 +50,9 @@ function reflectPreference() {
       .querySelector("meta[name='theme-color']")
       ?.setAttribute("content", bgColor);
   }
+
+  // NEW: keep Giscus in lockstep with site theme
+  updateGiscusTheme();
 }
 
 // set early so no page flashes / CSS is made aware
