@@ -1,0 +1,56 @@
+---
+const {
+  repo,
+  repoId,
+  category,
+  categoryId,
+  lang,
+  theme,
+  mapping,
+  term,
+} = Astro.props;
+---
+
+
+<section id="giscus_thread" aria-label="Comments"></section>
+<script type="application/json" id="giscus-props" set:html={JSON.stringify({repo,repoId,category,categoryId,lang,theme,mapping,term})}></script>
+
+<script is:inline>
+  function mountGiscus() {
+    const host = document.getElementById('giscus_thread');
+    if (!host) return;
+
+    // Clear any previous instance (important on client-side nav)
+    host.innerHTML = "";
+
+    // Get props from the JSON script tag
+    const propsScript = document.getElementById('giscus-props');
+    if (!propsScript) return;
+    const props = JSON.parse(propsScript.textContent);
+
+    const s = document.createElement('script');
+    s.src = 'https://giscus.app/client.js';
+    s.async = true;
+    s.setAttribute('crossorigin', 'anonymous');
+
+    // Required Giscus data attributes (plain strings)
+    s.dataset.repo = props.repo;
+    s.dataset.repoId = props.repoId;
+    s.dataset.category = props.category;
+    s.dataset.categoryId = props.categoryId;
+    s.dataset.mapping = props.mapping;
+    if (props.term) s.dataset.term = props.term;
+    s.dataset.strict = "1";
+    s.dataset.reactionsEnabled = "1";
+    s.dataset.emitMetadata = "0";
+    s.dataset.inputPosition = "bottom";
+    s.dataset.theme = props.theme;
+    s.dataset.lang = props.lang;
+
+    host.appendChild(s);
+  }
+
+  // Initial load + after Astro swaps DOM on client-side navigation
+  document.addEventListener('astro:page-load', mountGiscus);
+  document.addEventListener('astro:after-swap', mountGiscus);
+</script>

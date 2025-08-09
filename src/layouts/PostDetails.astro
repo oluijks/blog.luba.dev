@@ -6,6 +6,7 @@ import Footer from "@/components/Footer.astro";
 import Tag from "@/components/Tag.astro";
 import Datetime from "@/components/Datetime.astro";
 import EditPost from "@/components/EditPost.astro";
+import Giscus from "@/components/Giscus.astro";
 import ShareLinks from "@/components/ShareLinks.astro";
 import BackButton from "@/components/BackButton.astro";
 import BackToTopButton from "@/components/BackToTopButton.astro";
@@ -156,6 +157,26 @@ const nextPost =
       }
     </div>
   </main>
+
+  <section id="comments" class="mb-16 w-full flex flex-col justify-center">
+    <div class="w-full max-w-7xl px-4">
+      <Giscus
+        term={title}
+        repo="oluijks/blog.luba.dev"
+        repoId="R_kgDOO4QTkw"
+        category="General"
+        categoryId="DIC_kwDOO4QTk84Ct94Z"
+        lang="en"
+        theme="dark_dimmed"
+        mapping="title"
+      />
+      <p style="font-size: 0.9em; opacity: 0.8;" class="px-5 mt-3">
+        Comments are powered by <a href="https://giscus.app" target="_blank" rel="noopener">Giscus</a>, 
+        which uses GitHub Discussions. By commenting, your GitHub username and profile picture will be public.
+        See <a class="text-accent hover:opacity-75" href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement" target="_blank" rel="noopener">GitHub's Privacy Statement</a> for details.
+      </p>
+    </div>
+  </section>
   <Footer />
 </Layout>
 
