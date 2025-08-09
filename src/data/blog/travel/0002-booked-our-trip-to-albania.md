@@ -5,6 +5,7 @@ title: We've Booked Our Holiday to Albania
 slug: travel/we-have-booked-our-holiday-to-albania
 featured: false
 draft: false
+comments: false
 tags:
   - luba
   - travel

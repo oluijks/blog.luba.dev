@@ -5,6 +5,7 @@ title: Our first trip together to Paris
 slug: travel/our-first-trip-together-to-paris
 featured: true
 draft: false
+comments: false
 tags:
   - luba
   - paris
